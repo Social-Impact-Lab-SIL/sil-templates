@@ -1,0 +1,9 @@
+# Stata temporary files
+*.dta
+*.gph
+*.log
+*.smcl
+*.stpr
+*.stsem
+*.stswc
+*.stul
