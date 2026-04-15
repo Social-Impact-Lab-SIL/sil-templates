@@ -1,0 +1,11 @@
+# R workspace and history
+.Rhistory
+.RData
+.Ruserdata
+
+# Built packages
+*.tar.gz
+*.zip
+
+# RStudio files
+.Rproj.user/
